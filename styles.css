@@ -25,14 +25,15 @@ h1 {
 }
 
 h3 {
-  margin: 30px;
+  margin-top: 60px;
   font-family: 'Indie Flower', cursive;
   text-shadow: 5px 0 #232931;
-  font-size: 6rem;
+  font-size: 4rem;
   color: #0D1282;
 }
 
 p {
+  margin-bottom: 5px;;
   font-size: 3rem;
   color: #0D1282;
   font-family: 'Indie Flower', cursive;
