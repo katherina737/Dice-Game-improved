@@ -1,12 +1,12 @@
 .container {
-  width: 70%;
+  width: 60%;
   margin: auto;
   text-align: center;
 }
 
 .dice {
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 30px;
+  margin-right: 30px;
   text-align: center;
   display: inline-block;
 
@@ -19,15 +19,15 @@ body {
 h1 {
   margin: 30px;
   font-family: 'Lobster', cursive;
-  text-shadow: 5px 0 #232931;
-  font-size: 9rem;
+  text-shadow: 5px 0 #b4bcc5;
+  font-size: 7rem;
   color: #0D1282;
 }
 
 h3 {
-  margin-top: 60px;
+  margin-top: 20px;
   font-family: 'Indie Flower', cursive;
-  text-shadow: 5px 0 #232931;
+  text-shadow: 5px 0 #b4bcc5;
   font-size: 4rem;
   color: #0D1282;
 }
@@ -40,13 +40,13 @@ p {
 }
 
 img {
-  width: 100%;
+  width: 80%;
 }
 
 footer {
-  margin-top: 2%;
-  margin-bottom: 60px;
-  font-size: 1.3rem;
+  margin-top: -20px;
+  /* margin-bottom: 20px; */
+  font-size: 1rem;
   color: #0D1282;
   text-align: center;
   font-family: 'Indie Flower', cursive;
@@ -56,8 +56,8 @@ footer {
 .refresh-button {
   margin-top: 20px;
 	box-shadow: 3px 4px 0px 0px #8a2a21;
-	background:linear-gradient(to bottom, #c62d1f 5%, #f24437 100%);
-	background-color:#a11515;
+	background:linear-gradient(to bottom, #70050b 5%, #f24437 100%);
+	background-color:#963d3d;
 	border-radius:18px;
 	border:1px solid #d02718;
 	display:inline-block;
