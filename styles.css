@@ -77,3 +77,17 @@ footer {
 	position:relative;
 	top:1px;
 }
+
+@media (max-width: 481px){
+  .img{
+    width: 100%;
+  }
+  h1 {
+    font-size: 9rem;
+  }
+  footer {
+    margin: 20px;
+    font-size: 2rem;
+  }
+  
+}
