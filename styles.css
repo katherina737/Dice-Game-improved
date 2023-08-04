@@ -45,7 +45,6 @@ img {
 
 footer {
   margin-top: -20px;
-  /* margin-bottom: 20px; */
   font-size: 1rem;
   color: #0D1282;
   text-align: center;
@@ -78,16 +77,15 @@ footer {
 	top:1px;
 }
 
-@media (max-width: 481px){
+@media (max-width: 500px){
   .img{
     width: 100%;
   }
   h1 {
-    font-size: 9rem;
+    font-size: 5.5rem;
   }
   footer {
     margin: 20px;
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
-  
 }
